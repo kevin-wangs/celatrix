@@ -63,3 +63,14 @@ pip install celatrix
 
 ## License
 MIT License
+
+
+---
+
+<div align="center">
+
+**Developed by [Apex Ridge Technologies, Inc.](2805 E Cottonwood Pkwy, Suite 100, Salt Lake City, UT 84121)**
+
+Salt Lake City, Utah, USA
+
+</div>
